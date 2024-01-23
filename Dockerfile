@@ -1,11 +1,8 @@
-FROM node:20.11
+FROM node:lts-alpine3.18
 
 WORKDIR /sushi-shop/
 
-COPY public/ /sushi-shop/public
-COPY src/ /sushi-shop/src
-COPY package.json/ /sushi-shop/
-COPY mock/ /sushi-shop/mock
+COPY . .
 
 RUN npm install
 
