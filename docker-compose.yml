@@ -1,0 +1,13 @@
+version: '3.7'
+
+services: 
+  frontend: 
+    container_name: sushi-shop
+    build: .
+    ports:
+      - 3000:3000
+    volumes:
+      - /sushi-shop/node_modules
+      - /sushi-shop/public
+      - ./:/sushi-shop
+    command: yarn start
