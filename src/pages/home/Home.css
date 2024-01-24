@@ -1,0 +1,70 @@
+body>#root {
+    height: 100vh;
+    color: white;
+    background-color: #323232;
+}
+
+html {
+    width: 100%;
+}
+
+.menuMobileButton {
+    display: none !important;
+}
+
+@media screen and (max-width: 768px) {
+    .menuMobileButton {
+        display: flex !important;
+    }
+
+    .categoryButton {
+        display: none !important;
+    }
+
+    .searchInputDiv {
+        width: 250px;
+    }
+}
+
+.mobileDrawer {
+    display: none;
+}
+
+.mobileDrawerActive {
+    display: block;
+    background-color: #471a2f;
+    border-bottom: 1px solid rgb(19, 19, 19);
+}
+
+@media screen and (min-width: 769px) {
+    .mobileDrawerActive {
+        display: none;
+    }
+
+    .searchInputDiv {
+        width: 500px;
+    }
+}
+
+.mainDiv {
+    background-color: #323232;
+}
+
+.searchInputDiv {
+    display: flex;
+    position: relative;
+    border-radius: 4px;
+    margin-left: 16px;
+    margin-right: 16px
+}
+
+.productCardsHolder {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center
+}
+
+.drawerCategoryButtonsHolder {
+    display: flex;
+    flex-direction: column;
+}

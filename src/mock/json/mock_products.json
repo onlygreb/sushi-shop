@@ -1,88 +1,88 @@
 {
     "products": {
-        "food": [
+        "foods": [
             {
                 "name": "Hot Roll",
                 "price": "15.99",
-                "imagePath": "mock/images/hot_roll.png",
-                "rating": "4.9",
+                "imagePath": "https://i.imgur.com/4P5lbqk.png",
+                "rating": "4",
                 "description": "The hot roll is a Japanese fusion dish that combines the warmth of a tempura roll with the kick of spicy mayo. It features a delicious filling of crispy tempura, avocado, and cucumber, rolled in seaweed and rice. Topped with spicy mayo and sesame seeds, it's a perfect blend of textures and flavors."
             },
             {
                 "name": "Ramen",
                 "price": "12.99",
-                "imagePath": "mock/images/ramen.png",
-                "rating": "4.3",
+                "imagePath": "https://i.imgur.com/y8eM6L4.png",
+                "rating": "4",
                 "description": "Ramen is a comforting Japanese noodle soup dish with a savory broth, Chinese-style wheat noodles, and a variety of toppings. Our ramen includes a rich broth, tender noodles, slices of pork, green onions, and a boiled egg. It's a hearty and flavorful meal."
             },
             {
                 "name": "Combo",
                 "price": "22.99",
-                "imagePath": "mock/images/combo.png",
-                "rating": "4.9",
+                "imagePath": "https://i.imgur.com/aCkZgW7.png",
+                "rating": "4",
                 "description": "The combo is a well-curated selection of our best dishes, offering a mix of sushi rolls, sashimi, and tempura. Perfect for those who want to experience a variety of flavors in one meal, the combo is great for sharing or satisfying your cravings for different Japanese delicacies."
             },
             {
                 "name": "Oshizushi",
                 "price": "11.99",
-                "imagePath": "mock/images/oshizushi.png",
-                "rating": "4.8",
+                "imagePath": "https://i.imgur.com/OpdKI15.png",
+                "rating": "4",
                 "description": "Oshizushi, also known as pressed sushi, is a traditional Japanese dish featuring layers of vinegared rice, fresh fish, and various toppings. Our oshizushi includes carefully selected fish and vibrant vegetables, creating a visually appealing and delicious bite-sized culinary experience."
             },
             {
                 "name": "Niguiri",
                 "price": "11.99",
-                "imagePath": "mock/images/niguiri.png",
-                "rating": "4.8",
+                "imagePath": "https://i.imgur.com/RccoF9Q.png",
+                "rating": "4",
                 "description": "Niguiri is a classic sushi dish consisting of a small bed of vinegared rice topped with fresh seafood or other ingredients. Our niguiri features high-quality fish, expertly sliced and served over seasoned rice, providing a perfect balance of flavors and textures in each bite."
             },
             {
                 "name": "Hossomaki",
                 "price": "11.99",
-                "imagePath": "mock/images/hossomaki.png",
-                "rating": "4.9",
+                "imagePath": "https://i.imgur.com/uo1q3kM.png",
+                "rating": "5",
                 "description": "Hossomaki rolls are traditional cylindrical sushi rolls with nori (seaweed) on the outside and rice and fillings on the inside. Our hossomaki includes a variety of fresh ingredients, tightly rolled to create a compact and delightful bite-sized sushi experience."
             },
             {
                 "name": "Arroz",
                 "price": "6.99",
-                "imagePath": "mock/images/arroz.png",
-                "rating": "4.3",
+                "imagePath": "https://i.imgur.com/Kam6xfN.png",
+                "rating": "5",
                 "description": "Arroz, meaning rice in Spanish, is a simple yet essential dish in Japanese cuisine. Our arroz is prepared with perfectly cooked short-grain rice, seasoned with a touch of soy sauce and mirin. It serves as a versatile and satisfying accompaniment to various Japanese dishes."
             },
             {
                 "name": "Dango",
                 "price": "12.99",
-                "imagePath": "mock/images/dango.png",
-                "rating": "4.4",
+                "imagePath": "https://i.imgur.com/Yr7q7V0.png",
+                "rating": "4",
                 "description": "Dango is a popular Japanese sweet consisting of skewered rice dumplings. Our dango features soft and chewy rice dumplings served on sticks, with a sweet soy glaze. It's a delightful and portable treat enjoyed during festivals and celebrations in Japan."
             },
             {
                 "name": "Maki",
                 "price": "10.99",
-                "imagePath": "mock/images/maki.png",
-                "rating": "4.9",
+                "imagePath": "https://i.imgur.com/50pnWN4.png",
+                "rating": "5",
                 "description": "Maki rolls are cylindrical sushi rolls with nori on the outside, rice and fillings on the inside. Our maki includes a variety of creative combinations, featuring fresh ingredients and expertly rolled to create visually appealing and flavorful bite-sized pieces."
             },
             {
                 "name": "Sanduiche",
                 "price": "3.50",
-                "imagePath": "mock/images/sanduiche.png",
-                "rating": "4.1",
+                "imagePath": "https://i.imgur.com/CUo0MZB.png",
+                "rating": "4",
                 "description": "Sanduiche, a Japanese-style sandwich, offers a unique twist on the classic sandwich. Our sanduiche includes layers of thinly sliced tamagoyaki (Japanese omelet), cucumber, and ham, sandwiched between soft, fluffy Japanese milk bread. It's a tasty and satisfying handheld meal."
             },
             {
                 "name": "Temaki",
                 "price": "5.99",
-                "imagePath": "mock/images/temaki.png",
-                "rating": "5.0",
+                "imagePath": "https://i.imgur.com/tiuILt2.png",
+                "rating": "5",
                 "description": "Temaki, or hand-rolled sushi, is a cone-shaped sushi roll with nori on the outside and rice and fillings on the inside. Our temaki features a generous portion of fresh seafood, avocado, and cucumber, expertly hand-rolled to create a delicious and visually appealing cone."
             },
             {
                 "name": "Taiyaki",
                 "price": "2.99",
-                "imagePath": "mock/images/taiyaki.png",
-                "rating": "2.9",
+                "imagePath": "https://i.imgur.com/DZfO5Aj.png",
+                "rating": "2",
                 "description": "Taiyaki is a fish-shaped cake filled with sweet red bean paste. Our taiyaki features a crispy yet fluffy exterior, shaped like a fish, and a generous filling of smooth and sweet red bean paste. It's a popular Japanese street food and a delightful dessert."
             }
         ],
@@ -90,143 +90,143 @@
             {
                 "name": "Beer",
                 "price": "3.49",
-                "imagePath": "mock/images/cerveja.png",
-                "rating": "4.5",
+                "imagePath": "https://i.imgur.com/Karfu3I.png",
+                "rating": "4",
                 "description": "Indulge in the refreshing taste of our chilled beer. With a perfect blend of malt and hops, it's a classic choice for those who appreciate a crisp and satisfying beverage."
             },
             {
                 "name": "Chopp",
                 "price": "3.99",
-                "imagePath": "mock/images/chopp.png",
-                "rating": "4.8",
+                "imagePath": "https://i.imgur.com/HnIHpUL.png",
+                "rating": "4",
                 "description": "Immerse yourself in the smooth and frothy experience of our chopp. Served at an optimal temperature, it's a delightful draft beer that captures the rich flavors of carefully selected ingredients."
             },
             {
                 "name": "Orange Juice",
                 "price": "2.79",
-                "imagePath": "mock/images/suco-de-laranja.png",
-                "rating": "4.7",
+                "imagePath": "https://i.imgur.com/xrQRy6D.png",
+                "rating": "4",
                 "description": "Start your day with a burst of citrus goodness! Our freshly squeezed orange juice offers a zesty and invigorating taste that's sure to awaken your senses."
             },
             {
                 "name": "Margarita",
                 "price": "4.99",
-                "imagePath": "mock/images/margarita.png",
-                "rating": "4.2",
+                "imagePath": "https://i.imgur.com/5R73kpw.png",
+                "rating": "4",
                 "description": "Transport yourself to a tropical paradise with our Margarita. This classic cocktail blends the tangy notes of lime with the smooth finish of tequila, creating a refreshing and satisfying drink."
             },
             {
                 "name": "Lemon Soda",
                 "price": "2.49",
-                "imagePath": "mock/images/soda-limao.png",
-                "rating": "4.9",
+                "imagePath": "https://i.imgur.com/lOnnVwL.png",
+                "rating": "4",
                 "description": "Quench your thirst with the sparkling goodness of our Lemon Soda. The perfect balance of citrusy lemon flavor and effervescent bubbles makes it a delightful choice for any occasion."
             },
             {
                 "name": "Watermelon Juice",
                 "price": "3.29",
-                "imagePath": "mock/images/suco-de-melancia.png",
-                "rating": "4.5",
+                "imagePath": "https://i.imgur.com/Km5bZQk.png",
+                "rating": "4",
                 "description": "Refresh yourself with the sweetness of summer in every sip of our Watermelon Juice. Cool and packed with the essence of ripe watermelons, it's a hydrating treat for all occasions."
             },
             {
                 "name": "Strawberry Juice",
                 "price": "2.99",
-                "imagePath": "mock/images/suco-de-morango.png",
-                "rating": "4.8",
+                "imagePath": "https://i.imgur.com/IwQVuyY.png",
+                "rating": "5",
                 "description": "Savor the delightful taste of sun-ripened strawberries in every sip of our Strawberry Juice. This vibrant and fruity beverage is a perfect choice for those who appreciate the natural sweetness of berries."
             },
             {
                 "name": "Grape Juice",
                 "price": "3.49",
-                "imagePath": "mock/images/suco-de-uva.png",
-                "rating": "4.5",
+                "imagePath": "https://i.imgur.com/ATJDCv8.png",
+                "rating": "4",
                 "description": "Experience the rich and velvety flavor of grapes with our Grape Juice. Served chilled, it's a non-alcoholic option that captures the essence of fresh, plump grapes in every sip."
             },
             {
                 "name": "Lemon Juice",
                 "price": "2.79",
-                "imagePath": "mock/images/suco-de-limao.png",
-                "rating": "4.7",
+                "imagePath": "https://i.imgur.com/mAh6YFZ.png",
+                "rating": "5",
                 "description": "Zingy and refreshing, our Lemon Juice is a burst of citrusy goodness. Squeezed from ripe lemons, this drink is perfect for those who enjoy a tangy and invigorating beverage."
             },
             {
                 "name": "Kiwi Juice",
                 "price": "3.19",
-                "imagePath": "mock/images/suco-de-kiwi.png",
-                "rating": "4.6",
+                "imagePath": "https://i.imgur.com/Ci8OV1L.png",
+                "rating": "4",
                 "description": "Delight in the exotic and sweet flavor of kiwi with our Kiwi Juice. Packed with vitamins and refreshment, it's a vibrant choice for those seeking a unique and enjoyable drink."
             },
             {
                 "name": "Tomato Juice",
                 "price": "3.09",
-                "imagePath": "mock/images/suco-de-tomate.png",
-                "rating": "4.4",
+                "imagePath": "https://i.imgur.com/rHQc5af.png",
+                "rating": "4",
                 "description": "For a savory twist, try our Tomato Juice. Packed with the robust flavor of ripe tomatoes, it's a savory and satisfying choice for those looking for a unique beverage experience."
             },
             {
                 "name": "Coca Cola",
                 "price": "2.69",
-                "imagePath": "mock/images/coca-cola.png",
-                "rating": "4.9",
+                "imagePath": "https://i.imgur.com/7a9tNh7.png",
+                "rating": "5",
                 "description": "Enjoy the classic and effervescent taste of Coca Cola. With its iconic flavor and refreshing carbonation, it's a timeless choice for satisfying your cola cravings."
             }
         ],
-        "dessert": [
+        "desserts": [
             {
                 "name": "Ice Cream",
                 "price": "3.49",
-                "rating": "4.5",
-                "imagePath": "mock/images/sorvete.png",
+                "rating": "4",
+                "imagePath": "https://i.imgur.com/MYoIydw.png",
                 "description": "Indulge in our creamy and delightful ice cream. Choose from a variety of flavors that will satisfy your sweet cravings. A perfect treat for any occasion!"
             },
             {
                 "name": "Passion Fruit Mousse",
                 "price": "4.99",
-                "rating": "4.7",
-                "imagePath": "mock/images/Mousse_maracuja.png",
+                "rating": "4",
+                "imagePath": "https://i.imgur.com/Tk77jHj.png",
                 "description": "Experience the tropical goodness with our Passion Fruit Mousse. A heavenly blend of passion fruit flavor in a light and airy mousse. It's a taste of paradise in every bite."
             },
             {
                 "name": "Pudding",
                 "price": "3.79",
-                "rating": "4.5",
-                "imagePath": "mock/images/pudim.png",
+                "rating": "3",
+                "imagePath": "https://i.imgur.com/dZpiE2o.png",
                 "description": "Indulge in the creamy goodness of our Pudding. Made with the finest ingredients, our pudding is a smooth and satisfying dessert. A classic treat that never goes out of style."
             },
             {
                 "name": "Strawberry Mousse",
                 "price": "4.29",
-                "rating": "4.8",
-                "imagePath": "mock/images/mousse_morango.png",
+                "rating": "5",
+                "imagePath": "https://i.imgur.com/B3o9Mbc.png",
                 "description": "Delight in the sweetness of our Strawberry Mousse. Made with fresh strawberries, this velvety mousse is a strawberry lover's dream. A luscious dessert to brighten your day."
             },
             {
                 "name": "Dorayaki",
                 "price": "3.99",
-                "rating": "4.6",
-                "imagePath": "mock/images/dorayaki.png",
+                "rating": "4",
+                "imagePath": "https://i.imgur.com/D5LUI7D.png",
                 "description": "Transport yourself to Japan with our Dorayaki. These sweet pancake-like delights are filled with a velvety red bean paste. A beloved treat, perfect for enjoying with a cup of green tea."
             },
             {
                 "name": "Carrot Cake",
                 "price": "4.49",
-                "rating": "4.4",
-                "imagePath": "mock/images/bolo-de-cenoura.png",
+                "rating": "4",
+                "imagePath": "https://i.imgur.com/yZw5LbR.png",
                 "description": "Indulge in the moist and flavorful goodness of our Carrot Cake. Topped with a decadent cream cheese frosting, it's a classic dessert that will delight your taste buds."
             },
             {
                 "name": "Strawberry Cake",
                 "price": "4.79",
-                "rating": "4.6",
-                "imagePath": "mock/images/bolo_cobertura_de_morango.png",
+                "rating": "4",
+                "imagePath": "https://i.imgur.com/KBuBc62.png",
                 "description": "Savor the sweetness of our Strawberry Cake. Layers of moist cake filled with fresh strawberries and creamy frosting. A delightful dessert for strawberry enthusiasts."
             },
             {
                 "name": "Colorful Chocolates",
                 "price": "5.99",
-                "rating": "4.9",
-                "imagePath": "mock/images/Doces_mm.png",
+                "rating": "5",
+                "imagePath": "https://i.imgur.com/s05MiMX.png",
                 "description": "Treat yourself to our delightful Colorful Chocolates. Each piece is a burst of color and flavor, crafted with the finest chocolates. A visually stunning and delicious treat."
             }
         ]

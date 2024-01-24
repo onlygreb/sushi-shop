@@ -1,0 +1,38 @@
+.productCard {
+    background-color: #323232 !important;
+    width: 350px;
+    height: 325px;
+    margin: 5px;
+    color: white !important;
+}
+
+.productCardButton {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    color: white !important;
+}
+
+#productCardShoppingCartIcon {
+    margin-right: 5px;
+    color: white;
+}
+
+.productCardImageHolderDiv {
+    margin-bottom: 3% !important;
+}
+
+.productCardContentHolderDiv {
+    height: 250px
+}
+
+#productCardImage {
+    width: 16%;
+    margin-right: 16px;
+    margin-bottom: -5%;
+}
+
+.productCardButtonHolderDiv {
+    display: flex;
+    justify-content: center;
+}
